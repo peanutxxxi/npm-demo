@@ -1,6 +1,6 @@
 {
   "name": "@goodman-juice/npm-demo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Demo package for testing auto tag and npm publish via GitHub Actions",
   "main": "src/index.js",
   "files": [
